@@ -1,6 +1,6 @@
 const { spawn } = require('child_process');
 process.env.TZ = 'Asia/Jakarta';
-console.log('Welcome to your server!\nType your command and send it to your server on "type a command..."')
+console.log('Type your command and send it to your server on "type a command..."')
 
 /**
  * Function to start a command process.
